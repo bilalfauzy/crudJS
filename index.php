@@ -17,8 +17,8 @@
             <td>TAHUN TERBIT</td>
         </th>
         <tr>
-            <td>aku</td>
-            <td>aasuu</td>
+            <td></td>
+            <td></td>
             <td></td>
             <td></td>
             <td></td>

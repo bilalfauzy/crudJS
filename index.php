@@ -17,8 +17,8 @@
             <td>TAHUN TERBIT</td>
         </th>
         <tr>
-            <td></td>
-            <td></td>
+            <td>aku</td>
+            <td>aasuu</td>
             <td></td>
             <td></td>
             <td></td>
@@ -45,5 +45,18 @@
             <td></td>
         </tr>
     </table>
+
+    <script type="text/javascript">
+        $.ajax({
+            type : "GET",
+            data : "",
+            url  : "ambilData.php",
+            success : function (result) {
+                
+            }
+
+
+        })
+    </script>
 </body>
 </html>

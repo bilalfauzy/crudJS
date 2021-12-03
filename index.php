@@ -6,9 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CRUD Javascript</title>
     <script type="text/javascript" src="jquery.js"></script>
-    
 </head>
 <body>
-    
+    <h1>DATA BUKU</h1>
+    <table border="1" style="width: 100%; border-collapse: collapse;">
+        <th>
+            <td>NO</td>
+            <td>JUDUL BUKU</td>
+            <td>PENGARANG</td>
+            <td>TAHUN TERBIT</td>
+        </th>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
 </body>
 </html>
